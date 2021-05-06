@@ -1,5 +1,5 @@
-# Lab1Test
-This is the Lab 1 Test
+# Windows Snap Resize
+Not really sure if I am inputting a suggestion correctly.
 
-This is new code
-Pretend I am coding something now
+It would be nice since a lot of people have dual monitors to allow windows snap functionality to work.
+
